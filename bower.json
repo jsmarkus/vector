@@ -1,0 +1,16 @@
+{
+  "name": "vector",
+  "main": "vector.js",
+  "version": "0.0.1",
+  "authors": [
+    "Mark <me@jsman.ru>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
